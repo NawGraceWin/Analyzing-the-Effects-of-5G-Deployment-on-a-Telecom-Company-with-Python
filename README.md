@@ -9,29 +9,29 @@ AtliQo, one of India's leading telecom providers, launched its 5G plans in May 2
 
 ### Tools and Technologies:
 
- _Python: For data analysis and visualization
- _Pandas: For data manipulation and analysis
-_Matplotlib/Seaborn: For data visualization
-_Jupyter Notebook: For documenting the analysis process
+ - Python: For data analysis and visualization
+ - Pandas: For data manipulation and analysis
+- Matplotlib/Seaborn: For data visualization
+- Jupyter Notebook: For documenting the analysis process
 
 ### Methodology:
 
--Data Collection: Gather data on KPIs for periods before and after the 5G launch.
--Data Cleaning: Ensure data accuracy and consistency.
--Data Analysis: Use Python to analyze the data, comparing pre and post-5G launch periods.
--Visualization: Create visual representations of the data to identify trends and patterns.
--Insights Generation: Derive actionable insights from the analysis to inform decision-making.
+- Data Collection: Gather data on KPIs for periods before and after the 5G launch.
+- Data Cleaning: Ensure data accuracy and consistency.
+- Data Analysis: Use Python to analyze the data, comparing pre and post-5G launch periods.
+- Visualization: Create visual representations of the data to identify trends and patterns.
+- Insights Generation: Derive actionable insights from the analysis to inform decision-making.
 
 ### Key Performance Indicators (KPIs):
 
--Active user count
--Citywise Revenue
--Unsubscribed Users
--Average revenue per user (ARPU)
+- Active user count
+- Citywise Revenue
+- Unsubscribed Users
+- Average revenue per user (ARPU)
 
 ### Expected Insights:
 
--Identification of trends in active users and revenue before and after the 5G launch.
--Understanding the factors contributing to the decline in active users and revenue growth.
--Recommendations for optimizing internet plans to attract more active users.
--Strategic insights to help the management make informed decisions to improve performance metrics.
+- Identification of trends in active users and revenue before and after the 5G launch.
+- Understanding the factors contributing to the decline in active users and revenue growth.
+- Recommendations for optimizing internet plans to attract more active users.
+- Strategic insights to help the management make informed decisions to improve performance metrics.
