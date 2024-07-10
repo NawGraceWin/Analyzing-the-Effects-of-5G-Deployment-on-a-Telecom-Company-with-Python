@@ -9,10 +9,10 @@ AtliQo, one of India's leading telecom providers, launched its 5G plans in May 2
 
 ### Tools and Technologies:
 
--Python: For data analysis and visualization
--Pandas: For data manipulation and analysis
--Matplotlib/Seaborn: For data visualization
--Jupyter Notebook: For documenting the analysis process
+ _Python: For data analysis and visualization
+ _Pandas: For data manipulation and analysis
+_Matplotlib/Seaborn: For data visualization
+_Jupyter Notebook: For documenting the analysis process
 
 ### Methodology:
 
